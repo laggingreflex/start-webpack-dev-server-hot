@@ -1,0 +1,14 @@
+{
+  "name": "start-webpack-dev-server-hot",
+  "version": "0.0.0",
+  "description": "Hot wrapper for start-webpack-dev-server",
+  "main": "index.js",
+  "files": [],
+  "repository": "laggingreflex/start-webpack-dev-server-hot",
+  "dependencies": {
+    "arrify": "^1.0.1",
+    "lodash.mapvalues": "^4.6.0",
+    "start-webpack-dev-server": "^0.1.0",
+    "webpack": "^2.2.0-rc.3"
+  }
+}
