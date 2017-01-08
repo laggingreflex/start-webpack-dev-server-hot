@@ -1,6 +1,6 @@
 {
   "name": "start-webpack-dev-server-hot",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Hot wrapper for start-webpack-dev-server",
   "main": "index.js",
   "files": [],
